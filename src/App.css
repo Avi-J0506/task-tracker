@@ -17,8 +17,8 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: start;
-  width: 520px;
-  min-height: 600px;
+  width: 65vw;
+  min-height: 55vh;
   background: #161a2b;
   text-align: center;
   margin: 128px auto;
@@ -46,7 +46,7 @@ h1 {
   border-radius: 4px 0 0 4px;
   border: 2px solid #5d0cff;
   outline: none;
-  width: 320px;
+  width: 40vw;
   background: transparent;
   color: #fff;
 }
@@ -61,6 +61,7 @@ h1 {
   border-radius: 0 4px 4px 0;
   cursor: pointer;
   outline: none;
+  font-family: Trebuchet MS;
   background: linear-gradient(
     90deg,
     rgba(93, 12, 255, 1) 0%,
